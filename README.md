@@ -5,7 +5,7 @@ This project leverages machine learning techniques to analyze sound files. Speci
 
 ## Installation
 
-### Step 1: Clone the Repository
+Clone the Repository
 Clone the repository to your local machine:
 
 
