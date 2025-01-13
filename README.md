@@ -14,29 +14,6 @@ cd sound-analysis
 
 
 
-
-Usage
-
-Step 1: Extract Features (MFCC)
-The first step is to extract features from the sound clips. You can use the extract_mfcc.py script to extract Mel-Frequency Cepstral Coefficients (MFCC) from the audio files:
-
-python scripts/extract_mfcc.py
-
-
-Step 2: Train a Classification Model
-To train a machine learning model using the extracted MFCC features, use the train_model.py script:
-
-python scripts/train_model.py
-
-
-Step 3: Evaluate the Model
-After training, evaluate the model using the following script:
-
-python scripts/evaluate_model.py
-
-
-
-
 Project Structure
 .
 ├── en/                    # Raw or pre-processed data files
