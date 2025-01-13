@@ -14,7 +14,7 @@ cd sound-analysis
 
 
 
-Project Structure
+**Project Structure
 .
 ├── en/                    # Raw or pre-processed data files
 ├── main.ipynb/            # Jupyter notebooks for exploration
